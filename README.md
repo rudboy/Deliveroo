@@ -38,7 +38,7 @@ deliveroo
 Clone this repository :
 
 ```bash
-git clone https://github.com/alexdisdier/deliveroo.git
+git clone https://github.com/rudboy/Deliveroo
 
 cd deliveroo
 ```
